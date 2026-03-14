@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<items totalitems="3" username="hidden_test_user">
+    <item objecttype="thing" objectid="0" subtype="boardgame">
+        <name sortindex="1">Resilience Test: Hex ID</name>
+        <stats minplayers="2" maxplayers="4">
+            <rating value="10">
+                <average value="8.5" />
+            </rating>
+        </stats>
+    </item>
+
+    <item objecttype="thing" objectid="13" subtype="boardgame">
+        <name sortindex="1">Catan</name>
+        <stats>
+            <rating>
+                <average value="2.0" />
+            </rating>
+        </stats>
+    </item>
+
+    <item objecttype="thing" objectid="84876" subtype="boardgame">
+        <name sortindex="5">The Castles of Burgundy</name>
+        <stats /> </item>
+</items>

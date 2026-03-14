@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<items totalitems="5" username="hive_friend" termsofuse="http://boardgamegeek.com/xmlapi/termsofuse">
+
+   <item objecttype="thing" objectid="84876" subtype="boardgame">
+    <name sortindex="5">The Castles of Burgundy</name>
+    <stats minplayers="2" maxplayers="4">
+      <rating value="8">
+        <average value="8.11543" />
+      </rating>
+    </stats>
+  </item>
+
+  <item objecttype="thing" objectid="13" subtype="boardgame">
+    <name sortindex="1">Catan</name>
+    <stats minplayers="3" maxplayers="4">
+      <rating value="9">
+        <average value="7.23913" />
+      </rating>
+    </stats>
+  </item>
+
+  <item objecttype="thing" objectid="110327" subtype="boardgame">
+    <name sortindex="1">Lords of Waterdeep</name>
+    <stats minplayers="2" maxplayers="5">
+      <rating value="7">
+        <average value="7.79124" />
+      </rating>
+    </stats>
+  </item>
+
+  <item objecttype="thing" objectid="161936" subtype="boardgame">
+    <name sortindex="1">Pandemic Legacy: Season 1</name>
+    <stats minplayers="2" maxplayers="4">
+      <rating value="10">
+        <average value="8.61245" />
+      </rating>
+    </stats>
+  </item>
+
+  <item objecttype="thing" objectid="167791" subtype="boardgame">
+    <name sortindex="1">Terraforming Mars</name>
+    <stats minplayers="1" maxplayers="5">
+      <rating value="N/A">
+        <average value="8.42131" />
+      </rating>
+    </stats>
+  </item>
+</items>

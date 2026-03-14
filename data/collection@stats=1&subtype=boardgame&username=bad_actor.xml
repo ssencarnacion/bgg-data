@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<items totalitems="5" username="bad&actor" termsofuse="http://boardgamegeek.com/xmlapi/termsofuse">
+
+  <item objecttype="thing" objectid="84876" subtype="boardgame">
+    <name sortindex="5">The Castles of Burgundy &  Friends</name>
+    <stats minplayers="2" maxplayers="4">
+      <rating value="9">
+        <average value="8.11543" />
+      </rating>
+    </stats>
+  </item>
+
+  <item objecttype="thing" objectid="161936" subtype="boardgame">
+    <name sortindex="1">Pandemic Legacy: Season 1 > "Special"</name>
+    <stats minplayers="2" maxplayers="4">
+      <rating value="9">
+        <average value="8.61245" />
+      </rating>
+    </stats>
+  </item>
+
+</items

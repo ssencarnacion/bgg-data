@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<items totalitems="2" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse" pubdate="Thu, 15 Jan 2026 14:34:17 +0000">
+		<item objecttype="thing" objectid="13" subtype="boardgame" collid="141308664">
+	<name sortindex="1">CATAN</name>
+		<yearpublished>2025</yearpublished>			<image>https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__original/img/oRc0AomWA9ZtFqQDZiZbIyKE1j0=/0x0/filters:format(png)/pic9156909.png</image>
+		<thumbnail>https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__small/img/SNVfF23OQafv3u8xdFolJnMkBoM=/fit-in/200x150/filters:strip_icc()/pic9156909.png</thumbnail>
+		<stats minplayers="3"																	maxplayers="4"																	minplaytime="60"																	maxplaytime="120"																	playingtime="120"																	numowned="234608" >
+				<rating value="N/A">			<usersrated value="139769" />			<average value="7.09139" />
+			<bayesaverage value="6.90483" />			<stddev value="1.50516" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="608" bayesaverage="6.90483" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="571" bayesaverage="6.77626" />
+								<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="205" bayesaverage="6.85245" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2026-01-15 07:30:03" />
+	<numplays>0</numplays>							</item>
+		<item objecttype="thing" objectid="13" subtype="boardgame" collid="141308666">
+	<name sortindex="1">卡坦島</name>
+	<originalname>CATAN</originalname>	<yearpublished>2025</yearpublished>			<image>https://cf.geekdo-images.com/OAEm41W-ZMMP59L6_2bQ5Q__original/img/vIC1hopizr5bMIuAK8N9xcXlONY=/0x0/filters:format(jpeg)/pic9159960.jpg</image>
+		<thumbnail>https://cf.geekdo-images.com/OAEm41W-ZMMP59L6_2bQ5Q__small/img/2_Ep-kJq3utrq3TN2FiwuKsRwQs=/fit-in/200x150/filters:strip_icc()/pic9159960.jpg</thumbnail>
+		<stats minplayers="3"																	maxplayers="4"																	minplaytime="60"																	maxplaytime="120"																	playingtime="120"																	numowned="234608" >
+				<rating value="8">			<usersrated value="139769" />			<average value="7.09139" />
+			<bayesaverage value="6.90483" />			<stddev value="1.50516" />
+			<median value="0" />			<ranks>
+												<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="608" bayesaverage="6.90483" />
+																<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="571" bayesaverage="6.77626" />
+								<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="205" bayesaverage="6.85245" />
+											</ranks>		</rating>
+			</stats>	<status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0"  preordered="0" lastmodified="2026-01-15 08:34:01" />
+	<numplays>0</numplays>							</item>
+		
+</items>
